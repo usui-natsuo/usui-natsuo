@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz Otavio B W Poli.
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything I can.
 - 📫 How to reach me ...
 
